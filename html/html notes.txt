@@ -1,0 +1,12 @@
+**INTRODUCTION
+              
+              HTML- Hyper Text Markup Language
+
+-> HTML is a Markup Language which provides a set of tags that can be used for making web pages
+
+-> HTML is a scripting Language for web pages and output can be produced in browser
+
+-> a tag is made of a left operator (<) and a right operator (>) and a tag name in between them
+                       
+           syntax is: <tag name [parameters]>
+                    
