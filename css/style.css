@@ -1,0 +1,14 @@
+header 
+{
+  background-color: aquamarine;
+  align-self: center;
+  font-style: italic;
+  font-display: black;
+  animation: none;
+}
+body 
+{
+    background-color: aquamarine;
+    font: gray;
+    font-style: oblique;
+}
