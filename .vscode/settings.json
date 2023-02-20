@@ -2,5 +2,17 @@
     "cSpell.words": [
         "barebone",
         "SRAVAN"
+    ],
+    "spellright.language": [
+        "en",
+        "hi",
+        "te"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "html",
+        "css"
     ]
 }
