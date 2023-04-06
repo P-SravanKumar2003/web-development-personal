@@ -14,5 +14,8 @@
         "plaintext",
         "html",
         "css"
-    ]
+    ],
+    "genieai.openai.model": "gpt-4",
+    "genieai.openai.temperature": 0.5,
+    "genieai.personalizedName": ""
 }
