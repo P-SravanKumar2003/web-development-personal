@@ -17,5 +17,12 @@
     ],
     "genieai.openai.model": "gpt-4",
     "genieai.openai.temperature": 0.5,
-    "genieai.personalizedName": ""
+    "genieai.personalizedName": "",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "livePreview.customExternalBrowser": "Edge",
+    "tabnine.receiveBetaChannelUpdates": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
 }
